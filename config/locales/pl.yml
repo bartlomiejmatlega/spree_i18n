@@ -610,7 +610,7 @@ pl:
         not_first_order:
     email: E-mail
     empty: Pusty
-    empty_cart: Pusty koszyk
+    empty_cart: Opróżnij koszyk
     enable_mail_delivery: Włącz dostawę pocztą
     end: Koniec
     ending_in: Koniec w
