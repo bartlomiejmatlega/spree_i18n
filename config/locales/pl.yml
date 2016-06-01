@@ -956,6 +956,7 @@ pl:
     previous: Poprzedni
     previous_state_missing:
     price: Cena
+    price_from: Od
     price_range: Zakres cen
     price_sack: Worek cenowy
     process: Przetwórz

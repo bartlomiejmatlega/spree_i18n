@@ -950,6 +950,7 @@ en-GB:
     previous: Previous
     previous_state_missing:
     price: Price
+    price_from: From
     price_range: Price Range
     price_sack: Price Sack
     process: Process

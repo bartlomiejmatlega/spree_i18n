@@ -947,6 +947,7 @@ en-NZ:
     previous_state_missing:
     price: Price
     price_range: Price Range
+    price_from: From
     price_sack: Price Sack
     process: Process
     product: Product
