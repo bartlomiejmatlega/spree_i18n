@@ -696,7 +696,7 @@ pl:
     implement_requires_manual_intervention:
     inactive:
     incl:
-    included_in_price: Cena zawiera
+    included_in_price: w cenie
     included_price_validation: nie można wybrać dopóki nie ustawiono domyślnej strefy podatkoej
     incomplete:
     info_number_of_skus_not_shown:
